@@ -10,6 +10,7 @@ Requerimientos:
 - [DREAM-ON GYM](https://gitlab.com/IRO-Team/dream-on-gym-v2.0) = 0.0.9
 
 Información:
+- hermanoptico_v*.zip : agente entrenado
 - sp-ff.py : Implementa heurísticas Shortest Path y First Fit en red óptica simulada Biobio_Net
 - entrenar_agente.py : Script que entrena agente sobre red óptica simulada
 - entorno_pruebas.py : Script para calcular probabilidad de bloqueo sobre distintos escenarios de tráfico de red para agente ya entrenado.
